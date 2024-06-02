@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082391336218",
+    "project_id": "giandon",
+    "storage_bucket": "giandon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082391336218:android:0edac10e316736252088a3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_giandon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082391336218-cu7f94ge6gfr1vsmj1ethk21r8h722on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxWWYyCnrmY82iUnwDLMLDBxqXRKH0FAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082391336218-cu7f94ge6gfr1vsmj1ethk21r8h722on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
